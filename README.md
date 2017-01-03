@@ -1,9 +1,4 @@
-# Portfolio
-
-# Personal Word List
-
-
-# Inspiration
+# Portfolio Inspiration
 
 ## Portfolios I like:
 
